@@ -8,4 +8,7 @@ public class Sample {
 		System.out.println("hellow world");
 	}
 
+	public void method() {
+		System.out.println("hi ,alll");
+	}
 }
